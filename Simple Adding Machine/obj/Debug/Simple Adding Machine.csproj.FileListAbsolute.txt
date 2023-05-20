@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Simple Adding Machine\bin\Debug\Simple Adding Machine.exe.config
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Simple Adding Machine\bin\Debug\Simple Adding Machine.exe
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Simple Adding Machine\bin\Debug\Simple Adding Machine.pdb
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Simple Adding Machine\obj\Debug\Simple Adding Machine.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Simple Adding Machine\obj\Debug\Simple Adding Machine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Simple Adding Machine\obj\Debug\Simple_Adding_Machine.Form1.resources
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Simple Adding Machine\obj\Debug\Simple_Adding_Machine.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Simple Adding Machine\obj\Debug\Simple Adding Machine.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Simple Adding Machine\obj\Debug\Simple Adding Machine.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Simple Adding Machine\obj\Debug\Simple Adding Machine.exe
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\Simple Adding Machine\obj\Debug\Simple Adding Machine.pdb
